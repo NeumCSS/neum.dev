@@ -1,7 +1,7 @@
 [submodule "src/.neum/Icons"]
-	path = src/.neum/Icons
+	path = neum/.neum/Icons
 	url = https://github.com/NeumCSS/Icons
 [submodule "src/.neum/Cute"]
-	path = src/.neum/Cute
+	path = neum/.neum/Cute
 	url = https://github.com/Neum-CSS/Cute
 	branch = dev
